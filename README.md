@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AymanAlimlahi
 - 👀 I’m interested in learning full stack developement 
-- 🌱 I’m currently learning html/css/js/react bootstrap/python
+- 🌱 I’m currently learning html/css/js/react/bootstrap/python/php/laravel/mysql/mongoDb/Next JS
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me simply just contact me 
 
